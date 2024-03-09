@@ -1,9 +1,9 @@
 # Image Hosting Repository
 
-Here is the repository I used to store the images used on github. Nothing interesting.
+Here is the repository I used to store the images used on web. No code. Nothing interesting.
 
-You can also build such a repo and use some tools to make image upload easily.
+You can also build such a repository and use some tools to make image upload easily. Then reference the image CDN url anywhere。
 
-These images are mainly uploaded through the [plugin](https://github.com/xiaou66/utools-pictureBed) of [utools](https://u.tools/).
+I upload images mainly through the [plugin](https://github.com/xiaou66/utools-pictureBed) of [utools](https://u.tools/).
 
 > Tips: use <https://cdn.jsdelivr.net/gh/:user-name/:repo-name/:img-path> can load images faster in China.
